@@ -1,0 +1,21 @@
+{
+  "name": "01---construindo-uma-app-simples-de-banco-com-typescript",
+  "version": "1.0.0",
+  "description": "Building a simple bank app with typescript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "bank",
+    "typescript"
+  ],
+  "author": "Elvis Gomide",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.9.5"
+  }
+}
